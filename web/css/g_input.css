@@ -1,0 +1,11 @@
+/*.g_input {*/
+    /*left: 20%;*/
+    /*top: 10%;*/
+/*}*/
+
+.g_input input[type="text"] {
+    width: 10em;
+    height: 3em;
+    margin: 0;
+    padding: 1em;
+}
